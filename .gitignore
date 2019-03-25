@@ -1,0 +1,8 @@
+# node_modules
+node_modules/
+
+# yarn or npm logs
+*.log
+
+# local scripts
+local-scripts/
